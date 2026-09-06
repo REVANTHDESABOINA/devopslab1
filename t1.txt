@@ -1,0 +1,16 @@
+              Story points are a unit of measure used in agile estimation to evaluate how much effort a user story requires. In scrum teams, this replaces traditional time estimates and focuses instead on relative estimation.
+Teams typically assign story point values by considering three key factors:
+•	Complexity – How technically challenging is the work item?
+Example: Integrating with a third-party API that lacks clear documentation.
+•	Amount of work – How many tasks or subtasks are involved?
+Example: Renaming 200 image files and updating their metadata across environments.
+
+•	Uncertainty – How familiar is the development team with the problem or solution?
+Example: Debugging a rare issue that only happens under specific user roles.
+In scrum, story points aren’t tied to a specific amount of time. Instead, they’re used to compare the relative size of stories. A story assigned 5 points should require more effort than a 2-point story, but less than an 8-point one
+
+             How to estimate a user story with story points?
+•	 Fibonacci sequence (1, 2, 3, 5, 8, 13, 21…) – The most popular option for agile estimation, especially in Jira. It limits choices and encourages teams to think in meaningful increments.
+Best for development-heavy teams and sprint execution.
+•	T-shirt sizes (XS, S, M, L, XL) – A relative scale often used during project planning or high-level backlog grooming. Works well for Epics and roadmap-level planning.
+•	Powers of 2 (1, 2, 4, 8, 16…) – A simplified approach that escalates faster than Fibonacci. Useful 
